@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-
+# -*- coding: utf-8 -*-
 
 from panda3d.core import WindowProperties, TextNode
 from direct.task.TaskManagerGlobal import taskMgr
